@@ -1,0 +1,10 @@
+.main-shop-page .shop-item {
+  display: flex;
+  flex-wrap: wrap;
+}
+.main-shop-page .shop-item .item {
+  margin: 20px 20px 0 0;
+}
+
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly93ZWJwYWNrLWRlbW8vLi9zcmMvdmlld3MvbWFpbi9pbmRleC5sZXNzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBRUk7RUFDQTtBQUFKO0FBSEE7RUFLTTtBQUNOIiwiZmlsZSI6ImNzcy8zMjQuZGE3ZmIzMDE3MzU0ZGQ0NGU1YmMuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLm1haW4tc2hvcC1wYWdlIHtcbiAgLnNob3AtaXRlbSB7XG4gICAgZGlzcGxheTogZmxleDtcbiAgICBmbGV4LXdyYXA6IHdyYXA7XG4gICAgLml0ZW0ge1xuICAgICAgbWFyZ2luOiAyMHB4IDIwcHggMCAwO1xuICAgIH1cbiAgfVxufVxuIl0sInNvdXJjZVJvb3QiOiIifQ==*/

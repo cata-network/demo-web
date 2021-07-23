@@ -1,0 +1,2 @@
+export const SETUSREINFO = "SETUSREINFO";
+export const SETMAPDATE = "SETMAPDATE";
